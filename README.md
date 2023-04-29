@@ -6,6 +6,6 @@ Steps to be followed:-
 3> open file name as Web_1920___1.html
 
 
-Now Enjoy 
+
 
 
